@@ -2,8 +2,7 @@
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 <h2 align="left">Hello 👋!<br> My name is Revanth and I'm in Python developer.</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.comfont=Ubuntu&pause=1000&color=3EFF38C0&width=435&lines=Python+enthusiast+%F0%9F%90%8D;Data+Analysis+%F0%9F%93%8A;Data+Visualization+%F0%9F%93%89;Feature+Engineering+%F0%9F%9A%80;Model+selection+%F0%9F%A4%96;Command+Line+Enthusiast+%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python;Second+line+of+text)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=slitzfringe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
