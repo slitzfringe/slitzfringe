@@ -9,9 +9,12 @@
   <img src="https://streak-stats.demolab.com?user=slitzfringe&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
+
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />  -->
+
+<img align="right" height="200" src="https://c.tenor.com/Ilo2ZgQO6cQAAAAC/naruto.gif"  />
 
 ###
 
